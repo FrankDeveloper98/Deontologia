@@ -1,0 +1,139 @@
+
+
+
+
+
+Semana 6: Secreto Profesional Competencia Profesional
+
+
+¿Qué es el secreto profesional?
+
+El secreto profesional es una obligación ética y legal, que tienen ciertos profesionales de guardar confidencialidad sobre la información que conocen en el ejercicio de su labor. Esta obligación protege la intimidad, la seguridad y los intereses de personas, empresas o instituciones que han confiado información sensible o confidencial.
+
+
+En el ámbito de las tecnologías de la información (TI), el secreto  profesional  se  relaciona  directamente  con  el manejo de datos, códigos fuente, sistemas, contraseñas, información de clientes y estructuras de seguridad, que no pueden ser divulgadas sin autorización.
+
+
+Características clave del secreto profesional en tecnología:
+Confidencialidad de datos:
+Proteger datos personales, financieros o sensibles de clientes y usuarios.
+
+Integridad profesional:
+No  compartir  información  estratégica  de  la  empresa,  como algoritmos, metodologías internas o vulnerabilidades de seguridad.
+
+Fidelidad a contratos y normas:
+Respetar acuerdos de confidencialidad (NDA) firmados al ingresar a un proyecto o empresa.
+
+Responsabilidad ética:
+Entender que incluso sin firmar un contrato explícito, el profesional tiene un deber moral de discreción.
+
+
+ Ejemplos aplicados a tecnología:
+
+
+
+
+
+
+Situación
+Un desarrollador accede al código fuente de un software privado
+Un técnico de soporte entra al correo electrónico o archivos personales de un cliente para reparar su equipo
+Un analista de datos trabaja con historiales médicos o bancarios
+Un especialista en ciberseguridad descubre una falla crítica en la infraestructura de su cliente
+
+Un empleado TI deja una empresa pero conserva documentación confidencial
+Aplicación del secreto profesional
+No puede divulgar, copiar ni reutilizar ese código en otros proyectos sin autorización.
+
+No debe mirar, copiar ni comentar el contenido accedido.
+
+Debe anonimizar los datos y evitar cualquier uso no autorizado o personal.
+Está obligado a no divulgar públicamente esa vulnerabilidad ni aprovecharla en beneficio propio.
+Debe destruirla o devolverla. Usarla o compartirla en otro empleo viola el secreto profesional.
+
+
+⚠ ¿Cuándo se puede romper el secreto profesional?
+•  Cuando hay riesgo grave o inminente para la vida o seguridad de personas.
+•  Por requerimiento legal o judicial.
+•  Con el consentimiento explícito del titular de la información.
+Ejemplo: Si un técnico TI descubre imágenes ilegales (como pornografía infantil) en un dispositivo, puede estar obligado legalmente a denunciarlo.
+
+Conclusión:
+
+
+El  secreto  profesional  en  tecnología  es fundamental para preservar la confianza, la privacidad y la integridad digital de los usuarios  y  organizaciones.  Su  violación puede tener consecuencias éticas, legales y reputacionales graves.
+
+
+¿Qué es la competencia profesional?
+
+La  competencia  profesional  es  la  capacidad  ética, técnica y actualizada que debe tener un profesional para ejercer adecuadamente su labor dentro de los límites de su formación, experiencia y habilidades. En términos deontológicos, implica el deber de no aceptar tareas para las que no se está preparado, así como el compromiso de mantenerse actualizado y actuar con responsabilidad, integridad y rigor técnico.
+
+En el contexto de las TI, la competencia profesional es crucial debido a la rápida evolución tecnológica, la complejidad de los sistemas informáticos y el alto impacto social de los servicios digitales.
+
+ Componentes de la competencia profesional en tecnología:
+
+
+1.Conocimientos técnicos actualizados
+Saber manejar lenguajes, plataformas, herramientas y metodologías vigentes.
+
+2.Capacidad de resolución de problemas complejos Identificar, analizar y resolver errores técnicos o desafíos arquitectónicos.
+
+3.Juicio ético y responsabilidad profesional
+Evaluar cuándo una tarea excede la propia capacidad y actuar con honestidad.
+
+ Componentes de la competencia profesional en tecnología:
+
+
+
+4.Habilidades de comunicación y trabajo colaborativo Ser  capaz  de  interactuar  efectivamente  con  colegas, usuarios y clientes.
+
+
+5.Formación continua y autoaprendizaje
+Participar  en  cursos,  certificaciones,  talleres  o  leer documentación especializada.
+
+ Ejemplos en el campo de TI:
+
+
+
+
+
+
+
+
+Situación
+Un desarrollador es contratado para crear una app con seguridad avanzada, pero no tiene experiencia en criptografía.
+Una empresa requiere la migración de datos a la nube. El técnico tiene conocimientos generales, pero nunca ha ejecutado un proyecto de esa escala.
+Un consultor promete implementar un sistema
+ERP complejo en 30 días sin experiencia previa.
+Un ingeniero se certifica en nuevas tecnologías cada año y participa en comunidades open source.
+Una analista de datos rechaza un proyecto de análisis médico porque no domina temas de privacidad y regulación (como HIPAA o RGPD).
+Aplicación de la competencia profesional
+Debería derivar esa parte a un especialista o
+capacitarse antes de asumir el trabajo.
+
+Éticamente, debe informar sus limitaciones y evitar improvisar sin respaldo técnico.
+
+Prometer más de lo que se puede cumplir es una
+falta de competencia profesional.
+
+Este es un ejemplo de formación continua y responsabilidad profesional.
+
+Demuestra juicio profesional y respeto por los límites éticos.
+
+
+ Relación con la ética y la deontología
+
+
+En  deontología  profesional,  la  competencia  es  un  deber moral. Según muchos códigos éticos:
+
+“El profesional no debe aceptar encargos para los que no esté debidamente cualificado, ni actuar fuera del ámbito de su competencia.”
+—  Código  Deontológico  del  Colegio  de  Ingenieros  en Informática de España (2020)
+
+
+“Una persona competente no es solo la que sabe, sino la que sabe cuándo decir: no sé.”
+—  Hernández  Sampieri,  R.  (2014).  Metodología  de  la investigación.
+
+Conclusión:
+
+
+La competencia profesional en tecnología no es solo saber programar o usar herramientas: es tener criterio   ético,   actualización   constante   y honestidad    intelectual.    Un    profesional competente sabe lo que hace, sabe lo que no sabe y actúa con responsabilidad, protegiendo el bienestar de sus clientes, usuarios y colegas.
